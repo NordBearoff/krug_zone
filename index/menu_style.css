@@ -1,0 +1,18 @@
+.menu_str {
+    width: 680px;
+    height: 400px;
+    top: 600px;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.menu_vip {
+    width: 700px;
+    height: 400px;
+    top: 600px;
+    left: 50%;
+    position: absolute;
+}
+
+
+

@@ -1,0 +1,16 @@
+.but_tel {
+    background-color: rgb(74, 74, 74);
+    color: #e44949;
+    border: 2px solid #e44949;
+    top: 12px;
+    left: 90%;
+    position: absolute;
+    
+}
+
+.but_tel a {
+    text-decoration: none;
+    color: #e44949;
+    
+
+}

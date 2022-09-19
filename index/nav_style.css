@@ -1,0 +1,77 @@
+
+.nav_bar {
+    background-color: rgb(74, 74, 74);
+    height: 50px;
+    padding: 0;
+}
+.header_text {
+    color: white;
+    position: absolute;               /* 2 */
+    top: 3%;                         /* 3 */
+    transform: translate(0, -50%);    /* 4 */
+    margin-left: 5px;
+    text-decoration: none;
+    font-family: 'Alfa Slab One', cursive;
+    
+}
+
+.input_nav a {
+    font-family: 'Alfa Slab One', cursive;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    
+}
+
+.map {
+    position: absolute;
+    margin-left: 1000px;}
+
+.footer {
+    background-color: rgb(100, 99, 99);
+    height: 150px;
+    margin-top: 200px;
+    color: white;
+    
+
+}
+
+.footer_center_text {
+    text-align: center;
+}
+
+.footer_text {
+    opacity: .6;
+}
+
+.footer_point {
+    width: 20px;
+    height: 20px;
+    margin-top: 33px;
+    margin-left: 13px;
+}
+
+.footer_text {
+    margin-left: 50px;
+    size: 10px;
+}
+
+.footer_phone {
+    width: 20px;
+    height: 20px;
+    margin-left: 13px;
+    margin-top: -15px;
+}
+
+.footer_text_phone {
+    text-decoration: none;
+    color: white;
+    opacity: .6;
+    margin-left: 50px;
+    margin-top: 50px;
+
+}
+
+.footer_contact {
+    margin-top: -40px;
+}
